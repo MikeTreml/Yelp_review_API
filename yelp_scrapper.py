@@ -4,17 +4,20 @@ from selenium import webdriver
 
 import google_vision
 
-options = webdriver.ChromeOptions()
-options.add_argument('--ignore-certificate-errors')
-options.add_argument('--incognito')
-options.add_argument('--headless')
-driver = webdriver.Chrome(ChromeDriverManager().install())
+def get_soup(url):
+    options = webdriver.ChromeOptions()
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--incognito')
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(ChromeDriverManager().install())
+    driver.get(url)
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+
+    return soup
 
 def website(searchName):
-    driver.get("https://www.yelp.com/biz/{0}".format(searchName))
-    soup = BeautifulSoup(driver.page_source, 'lxml')
+    soup = get_soup("https://www.yelp.com/biz/{0}".format(searchName))
     reviews = soup.findAll('li', attrs={'class': 'lemon--li__373c0__1r9wz margin-b5__373c0__2ErL8 border-color--default__373c0__3-ifU'})
-
     business_name = soup.find('h1', attrs={'class': 'lemon--h1__373c0__2ZHSL heading--h1__373c0__dvYgw undefined heading--inline__373c0__10ozy'}).get_text(strip=True)
     list_reviews = []
     for review in reviews:
@@ -26,7 +29,7 @@ def website(searchName):
         dict["location"] = review.find('span', attrs={'class': 'lemon--span__373c0__3997G text__373c0__2Kxyz text-color--normal__373c0__3xep9 text-align--left__373c0__2XGa-'}).get_text(strip=True)
         dict["place_name"] = business_name
         dict["image_url"] = image
-        dict['joy_likelihood'] = google_vision.detect_faces_uri(image)
+        dict['likelihood'] = google_vision.detect_faces_uri(image)
         list_reviews.append(dict)
 
     return list_reviews
