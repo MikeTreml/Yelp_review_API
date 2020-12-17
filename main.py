@@ -15,13 +15,13 @@ def yelp_api_run(yelp_id_search):
     list_reiews_joy = google_vision.add_joy_likelihood(list_reiews)
     final_json = json.dumps(list_reiews_joy, indent=4)
     print(final_json)
-    json_file_create(final_json, "json\API_json.json")
+    json_file_create(final_json, "json/API_json.json")
 
 
 def yelp_scrapper_run(yelp_id_search):
     scrapped_json = json.dumps(yelp_scrapper.website(yelp_id_search), indent=4)
     print(scrapped_json)
-    json_file_create(scrapped_json, "json\scrapped_json.json")
+    json_file_create(scrapped_json, "json/scrapped_json.json")
 
 
 def main():
