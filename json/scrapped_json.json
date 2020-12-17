@@ -7,8 +7,24 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/StDl8FyeoTCXFeoEjuHY_Q/60s.jpg",
         "joy_likelihood": [
-            "UNLIKELY",
-            "VERY_UNLIKELY"
+            {
+                "Joy": "UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            },
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            }
         ]
     },
     {
@@ -19,7 +35,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Ha03pDWDuJQKqc5RXlMelA/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "LIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -30,7 +54,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/qLDJgKfDrF5jLQ9aKkSmPA/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -41,7 +73,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/zkkfUC1G9VbGFnjmcGfU5g/60s.jpg",
         "joy_likelihood": [
-            "UNLIKELY"
+            {
+                "Joy": "UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -52,7 +92,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/gVbvQrbS-OIbum7EP3DtEg/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "POSSIBLE",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -63,7 +111,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/CfkfZbCWZWU-X5pBMfgwYQ/60s.jpg",
         "joy_likelihood": [
-            "UNLIKELY"
+            {
+                "Joy": "UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -74,7 +130,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/_PUa75eT_oh_hVPyxAz3OA/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -85,7 +149,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/A-qXcHMmpfzvA-LR-EXwVA/60s.jpg",
         "joy_likelihood": [
-            "UNLIKELY"
+            {
+                "Joy": "UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -96,7 +168,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/a7RH4qAyCV2cU-H7ifFbDg/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -107,7 +187,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/rRYXPxrrHdcJ1PG5efLmeg/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -118,7 +206,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/DoPJPuWQ2i30HpJC36wa8Q/60s.jpg",
         "joy_likelihood": [
-            "POSSIBLE"
+            {
+                "Joy": "POSSIBLE",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -129,7 +225,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Jc6Bi6tfXR6o09f6mpY1hg/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_LIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -140,7 +244,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/4iRsZpZs_5q9V7Ygm58kWg/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "POSSIBLE",
+                "Blurred": "POSSIBLE"
+            }
         ]
     },
     {
@@ -151,7 +263,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/bUOVnyKt6y8baJ5ND94t7w/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -162,7 +282,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/1pN0Xd132AfBMXQg8nuvQQ/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -182,10 +310,42 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/r4c0Nbo13JNyn5eWOyLsWQ/60s.jpg",
         "joy_likelihood": [
-            "VERY_UNLIKELY",
-            "VERY_UNLIKELY",
-            "VERY_UNLIKELY",
-            "VERY_UNLIKELY"
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            },
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            },
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            },
+            {
+                "Joy": "VERY_UNLIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_LIKELY"
+            }
         ]
     },
     {
@@ -196,7 +356,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/jj1vEqphp6s_YIeI91QeAg/60s.jpg",
         "joy_likelihood": [
-            "VERY_LIKELY"
+            {
+                "Joy": "VERY_LIKELY",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "VERY_UNLIKELY"
+            }
         ]
     },
     {
@@ -216,7 +384,15 @@
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/e6ql691mh8-Boucm_o72Ow/60s.jpg",
         "joy_likelihood": [
-            "POSSIBLE"
+            {
+                "Joy": "POSSIBLE",
+                "Sorrow": "VERY_UNLIKELY",
+                "Anger": "VERY_UNLIKELY",
+                "Surprise": "VERY_UNLIKELY",
+                "Under Exposed": "VERY_UNLIKELY",
+                "Headwear": "VERY_UNLIKELY",
+                "Blurred": "LIKELY"
+            }
         ]
     }
 ]
