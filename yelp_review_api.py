@@ -6,7 +6,7 @@ API_HOST = 'https://api.yelp.com'
 BUSINESS_PATH = '/v3/businesses/'
 REVIEWS_PATH = '/reviews'
 
-
+# build the URL
 def get_business_reviews(business_id):
     business_path = BUSINESS_PATH + business_id + REVIEWS_PATH
     return api_request(API_HOST, business_path)
