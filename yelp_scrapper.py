@@ -11,12 +11,11 @@ options.add_argument('--headless')
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 def website(searchName):
-    url = "https://www.yelp.com/biz/{0}".format(searchName)
-    driver.get(url)
-    page_source = driver.page_source
-    soup = BeautifulSoup(page_source, 'lxml')
+    driver.get("https://www.yelp.com/biz/{0}".format(searchName))
+    soup = BeautifulSoup(driver.page_source, 'lxml')
     reviews = soup.findAll('li', attrs={'class': 'lemon--li__373c0__1r9wz margin-b5__373c0__2ErL8 border-color--default__373c0__3-ifU'})
-    place_name = soup.find('h1', attrs={'class': 'lemon--h1__373c0__2ZHSL heading--h1__373c0__dvYgw undefined heading--inline__373c0__10ozy'}).get_text(strip=True)
+
+    business_name = soup.find('h1', attrs={'class': 'lemon--h1__373c0__2ZHSL heading--h1__373c0__dvYgw undefined heading--inline__373c0__10ozy'}).get_text(strip=True)
     list_reviews = []
     for review in reviews:
         dict = {}
@@ -25,7 +24,7 @@ def website(searchName):
         dict["review_content"] = review.find('span', attrs={'class': 'lemon--span__373c0__3997G raw__373c0__3rcx7'}).get_text(strip=True)
         dict["star_rating"] = review.find('div', attrs={'class': 'i-stars__373c0__1T6rz'})['aria-label']
         dict["location"] = review.find('span', attrs={'class': 'lemon--span__373c0__3997G text__373c0__2Kxyz text-color--normal__373c0__3xep9 text-align--left__373c0__2XGa-'}).get_text(strip=True)
-        dict["place_name"] = place_name
+        dict["place_name"] = business_name
         dict["image_url"] = image
         dict['joy_likelihood'] = google_vision.detect_faces_uri(image)
         list_reviews.append(dict)
