@@ -1,1 +1,222 @@
-"[{\"name\": \"Warren D.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/StDl8FyeoTCXFeoEjuHY_Q/60s.jpg\", \"joy_likelihood\": [\"UNLIKELY\", \"VERY_UNLIKELY\"]}, {\"name\": \"Brie G.\", \"review_content\": \"5 star rating\", \"location\": \"Chicago, IL\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/Ha03pDWDuJQKqc5RXlMelA/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Alison P.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/qLDJgKfDrF5jLQ9aKkSmPA/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Elle N.\", \"review_content\": \"5 star rating\", \"location\": \"La Crosse, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/zkkfUC1G9VbGFnjmcGfU5g/60s.jpg\", \"joy_likelihood\": [\"UNLIKELY\"]}, {\"name\": \"Megan S.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/gVbvQrbS-OIbum7EP3DtEg/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\"]}, {\"name\": \"Michelle B.\", \"review_content\": \"5 star rating\", \"location\": \"Holland, MI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/CfkfZbCWZWU-X5pBMfgwYQ/60s.jpg\", \"joy_likelihood\": [\"UNLIKELY\"]}, {\"name\": \"Ryan M.\", \"review_content\": \"4 star rating\", \"location\": \"Denver, CO\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/_PUa75eT_oh_hVPyxAz3OA/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\"]}, {\"name\": \"Hart P.\", \"review_content\": \"5 star rating\", \"location\": \"Gallatin, TN\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/A-qXcHMmpfzvA-LR-EXwVA/60s.jpg\", \"joy_likelihood\": [\"UNLIKELY\"]}, {\"name\": \"Nancy B.\", \"review_content\": \"4 star rating\", \"location\": \"Jefferson Park, Chicago, IL\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/a7RH4qAyCV2cU-H7ifFbDg/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\"]}, {\"name\": \"Augie R.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/rRYXPxrrHdcJ1PG5efLmeg/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Joe C.\", \"review_content\": \"4 star rating\", \"location\": \"Greenville, RI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/DoPJPuWQ2i30HpJC36wa8Q/60s.jpg\", \"joy_likelihood\": [\"POSSIBLE\"]}, {\"name\": \"Andy S.\", \"review_content\": \"5 star rating\", \"location\": \"Chicago, IL\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/Jc6Bi6tfXR6o09f6mpY1hg/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Jeremiah C.\", \"review_content\": \"5 star rating\", \"location\": \"Indianapolis, IN\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/4iRsZpZs_5q9V7Ygm58kWg/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\"]}, {\"name\": \"Don M.\", \"review_content\": \"4 star rating\", \"location\": \"Clinton, CT\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/bUOVnyKt6y8baJ5ND94t7w/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Amanda W.\", \"review_content\": \"5 star rating\", \"location\": \"Saint Louis, MO\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/1pN0Xd132AfBMXQg8nuvQQ/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\"]}, {\"name\": \"Tony N.\", \"review_content\": \"4 star rating\", \"location\": \"Coeur d'Alene, ID\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png\", \"joy_likelihood\": []}, {\"name\": \"Annah P.\", \"review_content\": \"4 star rating\", \"location\": \"Tampa, FL\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/r4c0Nbo13JNyn5eWOyLsWQ/60s.jpg\", \"joy_likelihood\": [\"VERY_UNLIKELY\", \"VERY_UNLIKELY\", \"VERY_UNLIKELY\", \"VERY_UNLIKELY\"]}, {\"name\": \"Ellie E.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/jj1vEqphp6s_YIeI91QeAg/60s.jpg\", \"joy_likelihood\": [\"VERY_LIKELY\"]}, {\"name\": \"Jeff N.\", \"review_content\": \"5 star rating\", \"location\": \"Naperville, IL\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/P8CzlxygQBNPM8EbPQ47bQ/60s.jpg\", \"joy_likelihood\": []}, {\"name\": \"Lico J.\", \"review_content\": \"5 star rating\", \"location\": \"Milwaukee, WI\", \"place_name\": \"Swingin' Door Exchange\", \"image_url\": \"https://s3-media0.fl.yelpcdn.com/photo/e6ql691mh8-Boucm_o72Ow/60s.jpg\", \"joy_likelihood\": [\"POSSIBLE\"]}]"
+[
+    {
+        "name": "Warren D.",
+        "review_content": "I selected Swingin' Door Exchange for one of our office Essential Worker lunches and the entire team is glad that I did. Everyone loved their food, even telling me, \"This is the best food I've had since the Coronavirus came along!\"Staff both on the phone and in the restaurant were pleasant and efficient. My order was ready exactly when they said it would be and was fantastic. My Prime Dip sandwich was a great size and I love that they didn't skimp on the au jus like so many places tend to do. It was big enough that I was able to save the other half for later and it warmed up nicely. The house chips were definitely top-tier as well.I really can't say enough about their ranch as well. I was annoyed that it was $1 extra to get it with the chips, but I'd drink it, it's so good!",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/StDl8FyeoTCXFeoEjuHY_Q/60s.jpg",
+        "joy_likelihood": [
+            "UNLIKELY",
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Brie G.",
+        "review_content": "Very good!!!!!! We picked up curbside and the food was amazing. My fav was the 4 Cs salad & Brussels sprouts I've never had Brussels that were so addicting as Swingin doors. Highly recommend for a lunch, dinner or pre game food.",
+        "star_rating": "5 star rating",
+        "location": "Chicago, IL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Ha03pDWDuJQKqc5RXlMelA/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Alison P.",
+        "review_content": "Got carry-out fish fry during covid19 and it was outstanding! The food was definitely still a great temperature when we got home. The fish was crispy with good tartar sauce. Loved the pre-buttered bread and homemade coleslaw. Those fries though... they stole the show! Crispy and crunchy... the best carry-out fries we've had so far.. Pro-tip: get some ranch on the side of your fries... you'll consider drinking it because it's that good.",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/qLDJgKfDrF5jLQ9aKkSmPA/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Elle N.",
+        "review_content": "Swingin' Door is as good as it gets!I've been here several times, with both family and friends, as well as on date night.NOt only do they have a stellar fish fry, but it's a great place to come for either a casual meal, or also a fancy night out. We have gotten casual food (burgers and fries) to surf and turf at Swingin Door, all with stellar cocktails and amazing service. They also have great appetizers (the buffalo chicken dip is amazing) and I think it's a hidden gem of Milwaukee!",
+        "star_rating": "5 star rating",
+        "location": "La Crosse, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/zkkfUC1G9VbGFnjmcGfU5g/60s.jpg",
+        "joy_likelihood": [
+            "UNLIKELY"
+        ]
+    },
+    {
+        "name": "Megan S.",
+        "review_content": "This small, intimate restaurant has a classic feel and a great staff to boot. There's a full service bar for those who are just looking to throw back a few drinks and outdoor seating as well!The food was incredible. I ordered their Ruben sandwich with a side of brussel sprouts and was anything but disappointed. I will definitely be checking this place out again for more amazing signature cocktails and delicious melted sandwiches.",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/gVbvQrbS-OIbum7EP3DtEg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Michelle B.",
+        "review_content": "My husband and I had the Brussel Sprouts, Strip steaks & grilled beets. Everything was perfect.Our server Michael was delightful and knowledgeable and treated us right. Best service that we've had in awhile! Thank you!After our delicious dinner, he suggested the salted caramel cake. It was outstanding!It was a gorgeous evening for dining outside.Definitely will return and we highly recommend this hidden little gem .",
+        "star_rating": "5 star rating",
+        "location": "Holland, MI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/CfkfZbCWZWU-X5pBMfgwYQ/60s.jpg",
+        "joy_likelihood": [
+            "UNLIKELY"
+        ]
+    },
+    {
+        "name": "Ryan M.",
+        "review_content": "Loved my experience at Swinging Door. It took me back to what I assume the old times were like in Downtown Milwaukee. Great lunch specials, and fantastic service.",
+        "star_rating": "4 star rating",
+        "location": "Denver, CO",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/_PUa75eT_oh_hVPyxAz3OA/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Hart P.",
+        "review_content": "Great experience. Indoor dining at the bar - patrons wear masks pretty well.With my schedule, I had to do the Friday night fish fry dinner otherwise I would not have another chance. Good, lots of side options. I chose the potato cakes and coleslaw as part of the dinner. The rye bread is very good. I picked up the carrots as an extra side and am so glad I did. The carrots are awesome. Sauteed brings out the carrot's sweetness and the spices add excellent flavor. Something I will definitely have again as a side or shared plate/appetizer.Plenty of beer options and my local amber (Lakefront) paired well with the fish dinner.",
+        "star_rating": "5 star rating",
+        "location": "Gallatin, TN",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/A-qXcHMmpfzvA-LR-EXwVA/60s.jpg",
+        "joy_likelihood": [
+            "UNLIKELY"
+        ]
+    },
+    {
+        "name": "Nancy B.",
+        "review_content": "Stopped here for lunch with a friend, it was our first time here from chicago, i had a turkey club, i didnt realize it can feed two people, i took the other half to my hubby and he loved it. The fries were on point, service was great, the bartender was friendly and can talk about anything, i would reccomend this place especially with the great vibe and amazing food quality, i love it and love milwaukee will be back with my husband next time. One last thing, the caramelized brussel sprouts are a must have",
+        "star_rating": "4 star rating",
+        "location": "Jefferson Park, Chicago, IL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/a7RH4qAyCV2cU-H7ifFbDg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Augie R.",
+        "review_content": "This is a five-star bar/pub if you have a party of two to four people (maybe six at the outside). \u00a0But, if you have a larger party, you may want to look elsewhere. We had a party of 11, and the crowded bar and tiny dining area contributed to a very long wait. The crew at Swingin' Door did their best to accommodate us, but the place just isn't built for large groups.But, if you have a small party and are looking for good drinks and great bar food (and you don't mind a crowded, lively spot), the Swingin' Door will fit the bill. The place doesn't take reservations, so plan for a wait and enjoy a drink at the bar. There is no parking, but you can find spots on the street or use one of the lots or structures (such as the Third Ward lot under the freeway or the Chase Bank structure on Water.)The Swingin' Door is a place rich in history. It's a 1930s tavern located in an 1879 building. The place is largely untouched by time, and it may look a bit like a dive bar, but it's much too clean and well-maintained for that. Instead, it's a comfortable, old, welcoming spot for a drink and a bite.The bar area is cozy--a couple of dozen people would fill all the chairs, and on popular evenings, making your way to the restrooms can be a bit challenging. But, because this is Milwaukee and the Swingin' Door seems to inspire sociability, you'll generally find people willing to squeeze out of the way with a smile, even when the place is packed.The dining room is equally cozy, and a couple of dozen people would also come close to filling every available seat. Service is friendly, and the food is terrific. The menu is full of delicious comfort food. The housemade chips with blue cheese dip are very tasty. The burgers and sandwiches, which range from $10 to $15, are great. I enjoyed the messy but delicious Grilled Russian, with roast beef, corned beef, coleslaw, and cheese on grilled marble rye. My dining companions who ordered the Saturday NY Strip special ($14.95!) had no complaints.Some people rave about the fries here, but I found them merely good--but the folks who ordered the Vermouth Carrots raved.I used to come here decades ago, and for a while, it seemed the Swingin' Door might not survive. But in 2010, K. C. Swan and Shelley Sincere purchased the place, upgraded the food, and kept everything that makes Swingin' Door such a terrific, comfortable, historic spot.Check out the daily specials on the website. Happy Hour is offered seven days a week with $3.50 Smirnoff Cocktails or three cans of Pabst, Hamms, Rolling Rock Or Coors for $5.",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/rRYXPxrrHdcJ1PG5efLmeg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Joe C.",
+        "review_content": "True Score: 4.5 StarsThe Food!This is a must stop when in a Milwaukee. \u00a0An institution that has been around for like 90 years. \u00a0A beautiful crafted bar with a great old school feel.Now for the food, kitchen in this joint turns out great food. Go for the weekend brunch if you're looking for breakfast in the downtown area. Eggs Benedict are among the best I've ever had the the farmers omelette never disappoints. Not sure what the chef's secret is with the hash browns, but they're delicious. \u00a0Add in Bloody Mary or a mimosa and your ready to go.Great atmosphere!!!! Some of the best food in Milwaukee!!! We loved everything they served!! Cool owners!!! Great staff!!! Great place to watch your favorite sports!!!One of our favorites on our visit, we'll be back.Thanks",
+        "star_rating": "4 star rating",
+        "location": "Greenville, RI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/DoPJPuWQ2i30HpJC36wa8Q/60s.jpg",
+        "joy_likelihood": [
+            "POSSIBLE"
+        ]
+    },
+    {
+        "name": "Andy S.",
+        "review_content": "Very nice service.Rescued my engagement weekend after some unfortunate drama.Shout out to Mat Trust for the the drinks, and the owner for champagne.",
+        "star_rating": "5 star rating",
+        "location": "Chicago, IL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Jc6Bi6tfXR6o09f6mpY1hg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Jeremiah C.",
+        "review_content": "Very nostalgic feel and cozy. Popular place for happy hour and dinner. Friendly staff, feels like a local neighborhood \u00a0pub.I went with the 3 Cans for $5. Bartender recommended the specialty burger, and I went with it. Side of fries and a pickle spear. Burger was very good and for this kind of place you don't expect these kind of ingredients and passion behind the food. Spicy ranch went well with the fries!Highly recommend this place to anyone passing thru town looking for a quick bite. Everything coming out of the kitchen look hearty and tasty. Cheers!",
+        "star_rating": "5 star rating",
+        "location": "Indianapolis, IN",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/4iRsZpZs_5q9V7Ygm58kWg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Don M.",
+        "review_content": "Hey now! \u00a0This place feels like it's been around since they closed bars the first time- Prohibition!A nice selection of apps, friendly locals and convenient location make this a great spot to dine. Try out the French Dip- amazing!If you're in town for a few nights, go more than once!",
+        "star_rating": "4 star rating",
+        "location": "Clinton, CT",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/bUOVnyKt6y8baJ5ND94t7w/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Amanda W.",
+        "review_content": "If you don't get the Brussel sprouts your missing out. This adorable dive bar has fast and friendly service. \u00a0The tuna was cooked to order and the porkchop sandwich was HUGE! We ate every bite and would 100% return! \u00a0Yum yum get you sum!",
+        "star_rating": "5 star rating",
+        "location": "Saint Louis, MO",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/1pN0Xd132AfBMXQg8nuvQQ/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Tony N.",
+        "review_content": "Great bar to hang and have a burger with a few old fashions. Neither disappointed. Bartenders were great.",
+        "star_rating": "4 star rating",
+        "location": "Coeur d'Alene, ID",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
+        "joy_likelihood": []
+    },
+    {
+        "name": "Annah P.",
+        "review_content": "This is a classic case of don't judge the book by its cover. Walking in I was thinking, where in the world are we getting dinner? It has more of a dimly-lit bar feel, like a place you'd come to throw back a few drinks and play darts. But, I checked Yelp and I was pleasantly surprised by all the wonderful reviews.Our waitress was very sweet and attentive and took our drink orders immediately. They have a full bar and lots of beer on draft. For dinner I went with the Blackened Chicken Bacon Avocado sandwich, which is rare for me because I almost never order chicken at restaurants but it had such great reviews so I went for it. I also got a side of their mashed potatoes, it was a special for the night. It was so good! The bacon was so crispy and the chicken was perfectly blackened, Yelp didn't let me down on that one. My boyfriend ordered the Patty Melt and said it was delicious as well.Overall, a really cool little joint to grab drinks and food! Prices were very reasonable as well. We must have lucked out because when we left there was a huge line of people waiting to be seated. Definitely check this place out!",
+        "star_rating": "4 star rating",
+        "location": "Tampa, FL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/r4c0Nbo13JNyn5eWOyLsWQ/60s.jpg",
+        "joy_likelihood": [
+            "VERY_UNLIKELY",
+            "VERY_UNLIKELY",
+            "VERY_UNLIKELY",
+            "VERY_UNLIKELY"
+        ]
+    },
+    {
+        "name": "Ellie E.",
+        "review_content": "This establishment never fails to impress me every time I eat & get drinks here. For some reason, I found this place unassuming when I first saw it; however, the service, food, and drinks are top-notch!The atmosphere is dive-y in the best way possible. It gives you a cozy and almost nostalgic feeling. I love that when you eat at the bar, they put a solid little \"tray\" down to bridge the gap between the wooden bartop and thick metal railing running along its length. It's this attention to detail that the kitchen, bartenders, and servers strive towards that makes every experience I've had here excellent.",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/jj1vEqphp6s_YIeI91QeAg/60s.jpg",
+        "joy_likelihood": [
+            "VERY_LIKELY"
+        ]
+    },
+    {
+        "name": "Jeff N.",
+        "review_content": "Everything the 800 other reviewers say is true.Good food in a cozy atmosphere.Friendly service.I had the pork chop sandwich. It was moist and delicious. The grilled beets were my favorite side.My wife had a patty melt which was anything but ordinary. She absolutely loved the Brussels sprouts. Good selection of beers.",
+        "star_rating": "5 star rating",
+        "location": "Naperville, IL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/P8CzlxygQBNPM8EbPQ47bQ/60s.jpg",
+        "joy_likelihood": []
+    },
+    {
+        "name": "Lico J.",
+        "review_content": "This is a hidden gem (not really many people have been here for many times lol) and one of the few restaurants that I can comfortably say \"great\" in downtown. My boyfriend and I went at 5:30 on a Friday night and found the restaurant was already pretty busy! Nice casual relaxing vibe and cool warm-tone interior design.We started with the Brussels Sprouts w Candied pecans and sriracha aioli. The brussels sprouts were deep fried to be super crispy (in case you think they are grilled) and went so well with the creamy and slightly spicy sriracha aioli. Yum! We two finished the whole plate in like 5 mins.My veggie melt contained generous portion of vegetables. The grilled cheese, mushroom and onions and avocado in between two slices of perfectly toasted and buttered bread were delicious! The only thing I didn't like about the sandwich was the raw cucumber inside - they were not refreshing and cold any more because everything else in the sandwich were cooked. So they were kind of watery and tasteless and added a weird texture. Personally I think they should use grilled zucchini instead.My boyfriend enjoyed his sriracha chicken sandwich a lot! I took a bite of it and could not agree more! Nicely seasoned! The bread was, again, so perfectly grilled with butter and had a crispy texture! The chicken was yummy - moist inside and crispy outside.Sides: my grilled beets were good. Given I am not a beet fan, I think I still enjoyed them. My boyfriend's onion rings were nothing really special, but did come in a generous portion.Bonus: I came here like a year before and got their chicken avocado bacon sandwich at that time. I could not remember the details but recalled I felt really good about it. That is why I wanted to come back and also showed the restaurant to my boyfriend.",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/e6ql691mh8-Boucm_o72Ow/60s.jpg",
+        "joy_likelihood": [
+            "POSSIBLE"
+        ]
+    }
+]
