@@ -6,24 +6,24 @@
         "location": "Milwaukee, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/StDl8FyeoTCXFeoEjuHY_Q/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
+                "Joy": "1",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
             },
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
             }
         ]
     },
@@ -34,15 +34,15 @@
         "location": "Chicago, IL",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Ha03pDWDuJQKqc5RXlMelA/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "LIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "3",
+                "Blurred": "0"
             }
         ]
     },
@@ -53,15 +53,15 @@
         "location": "Milwaukee, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/qLDJgKfDrF5jLQ9aKkSmPA/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
@@ -72,17 +72,26 @@
         "location": "La Crosse, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/zkkfUC1G9VbGFnjmcGfU5g/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "1",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
+    },
+    {
+        "name": "Gabriella C.",
+        "review_content": "The interior is so charming, with the old world charm of dark wood and gleaming stained glass windows, that it's a shame the first and only time I visited was during the carry-out only times of covid-19 quarantine. Even without the pleasure of dining in such a historical tavern, my interactions with staff on the phone and in person were very positive. And while waiting for my food at the bar, the smell of fresh french fries made me regret not ordering them!The staff was very accommodating to my dietary restrictions, and the menu in general has plenty of options: salads, burgers, fish, melts, steaks, and more! Plus, Swingin' Door is fairly attentive to social media, posting their daily specials on their Instagram/Facebook story, which is exciting to see!I had the ahi tuna steak on the marinated beet salad, and the tuna was really impressive! I'm a bit wary of tuna, and have felt sick from some from a few other restaurants in Milwaukee, but this was fresh, soft, and delectable.I hope they are staying safe during covid-19, and though the physical space is not one in which I'd feel very comfortable sharing with others, and the sidewalk seating is also a bit cramped, I'm glad they're still doing carryout!",
+        "star_rating": "4 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/kqCrVOjHkN2yrkQ5ALiJ1Q/60s.jpg",
+        "likelihood": []
     },
     {
         "name": "Megan S.",
@@ -91,34 +100,15 @@
         "location": "Milwaukee, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/gVbvQrbS-OIbum7EP3DtEg/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "POSSIBLE",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
-            }
-        ]
-    },
-    {
-        "name": "Michelle B.",
-        "review_content": "My husband and I had the Brussel Sprouts, Strip steaks & grilled beets. Everything was perfect.Our server Michael was delightful and knowledgeable and treated us right. Best service that we've had in awhile! Thank you!After our delicious dinner, he suggested the salted caramel cake. It was outstanding!It was a gorgeous evening for dining outside.Definitely will return and we highly recommend this hidden little gem .",
-        "star_rating": "5 star rating",
-        "location": "Holland, MI",
-        "place_name": "Swingin' Door Exchange",
-        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/CfkfZbCWZWU-X5pBMfgwYQ/60s.jpg",
-        "joy_likelihood": [
-            {
-                "Joy": "UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "0",
+                "Sorrow": "2",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "1",
+                "Blurred": "0"
             }
         ]
     },
@@ -129,15 +119,15 @@
         "location": "Denver, CO",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/_PUa75eT_oh_hVPyxAz3OA/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
@@ -148,17 +138,26 @@
         "location": "Gallatin, TN",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/A-qXcHMmpfzvA-LR-EXwVA/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "1",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
+    },
+    {
+        "name": "Kyle W.",
+        "review_content": "The food here is great. Have been here a bunch and never leave hungry. It's got a very cool and unique atmosphere that you have to check out",
+        "star_rating": "5 star rating",
+        "location": "Milwaukee, WI",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/QhVCot9r90dKbSOJsixPIQ/60s.jpg",
+        "likelihood": []
     },
     {
         "name": "Nancy B.",
@@ -167,15 +166,15 @@
         "location": "Jefferson Park, Chicago, IL",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/a7RH4qAyCV2cU-H7ifFbDg/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
@@ -186,15 +185,15 @@
         "location": "Milwaukee, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/rRYXPxrrHdcJ1PG5efLmeg/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
@@ -205,34 +204,34 @@
         "location": "Greenville, RI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/DoPJPuWQ2i30HpJC36wa8Q/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "POSSIBLE",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "2",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
     {
-        "name": "Andy S.",
-        "review_content": "Very nice service.Rescued my engagement weekend after some unfortunate drama.Shout out to Mat Trust for the the drinks, and the owner for champagne.",
+        "name": "Michelle B.",
+        "review_content": "My husband and I had the Brussel Sprouts, Strip steaks & grilled beets. Everything was perfect.Our server Michael was delightful and knowledgeable and treated us right. Best service that we've had in awhile! Thank you!After our delicious dinner, he suggested the salted caramel cake. It was outstanding!It was a gorgeous evening for dining outside.Definitely will return and we highly recommend this hidden little gem .",
         "star_rating": "5 star rating",
-        "location": "Chicago, IL",
+        "location": "Holland, MI",
         "place_name": "Swingin' Door Exchange",
-        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Jc6Bi6tfXR6o09f6mpY1hg/60s.jpg",
-        "joy_likelihood": [
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/CfkfZbCWZWU-X5pBMfgwYQ/60s.jpg",
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_LIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "1",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "1",
+                "Blurred": "0"
             }
         ]
     },
@@ -243,15 +242,34 @@
         "location": "Indianapolis, IN",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/4iRsZpZs_5q9V7Ygm58kWg/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "POSSIBLE",
-                "Blurred": "POSSIBLE"
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "2",
+                "Blurred": "2"
+            }
+        ]
+    },
+    {
+        "name": "Andy S.",
+        "review_content": "Very nice service.Rescued my engagement weekend after some unfortunate drama.Shout out to Mat Trust for the the drinks, and the owner for champagne.",
+        "star_rating": "5 star rating",
+        "location": "Chicago, IL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/Jc6Bi6tfXR6o09f6mpY1hg/60s.jpg",
+        "likelihood": [
+            {
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "4",
+                "Blurred": "0"
             }
         ]
     },
@@ -262,15 +280,15 @@
         "location": "Clinton, CT",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/bUOVnyKt6y8baJ5ND94t7w/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "1",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     },
@@ -281,15 +299,61 @@
         "location": "Saint Louis, MO",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/1pN0Xd132AfBMXQg8nuvQQ/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
+            }
+        ]
+    },
+    {
+        "name": "Annah P.",
+        "review_content": "This is a classic case of don't judge the book by its cover. Walking in I was thinking, where in the world are we getting dinner? It has more of a dimly-lit bar feel, like a place you'd come to throw back a few drinks and play darts. But, I checked Yelp and I was pleasantly surprised by all the wonderful reviews.Our waitress was very sweet and attentive and took our drink orders immediately. They have a full bar and lots of beer on draft. For dinner I went with the Blackened Chicken Bacon Avocado sandwich, which is rare for me because I almost never order chicken at restaurants but it had such great reviews so I went for it. I also got a side of their mashed potatoes, it was a special for the night. It was so good! The bacon was so crispy and the chicken was perfectly blackened, Yelp didn't let me down on that one. My boyfriend ordered the Patty Melt and said it was delicious as well.Overall, a really cool little joint to grab drinks and food! Prices were very reasonable as well. We must have lucked out because when we left there was a huge line of people waiting to be seated. Definitely check this place out!",
+        "star_rating": "4 star rating",
+        "location": "Tampa, FL",
+        "place_name": "Swingin' Door Exchange",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/r4c0Nbo13JNyn5eWOyLsWQ/60s.jpg",
+        "likelihood": [
+            {
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
+            },
+            {
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
+            },
+            {
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
+            },
+            {
+                "Joy": "0",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "4"
             }
         ]
     },
@@ -300,53 +364,7 @@
         "location": "Coeur d'Alene, ID",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
-        "joy_likelihood": []
-    },
-    {
-        "name": "Annah P.",
-        "review_content": "This is a classic case of don't judge the book by its cover. Walking in I was thinking, where in the world are we getting dinner? It has more of a dimly-lit bar feel, like a place you'd come to throw back a few drinks and play darts. But, I checked Yelp and I was pleasantly surprised by all the wonderful reviews.Our waitress was very sweet and attentive and took our drink orders immediately. They have a full bar and lots of beer on draft. For dinner I went with the Blackened Chicken Bacon Avocado sandwich, which is rare for me because I almost never order chicken at restaurants but it had such great reviews so I went for it. I also got a side of their mashed potatoes, it was a special for the night. It was so good! The bacon was so crispy and the chicken was perfectly blackened, Yelp didn't let me down on that one. My boyfriend ordered the Patty Melt and said it was delicious as well.Overall, a really cool little joint to grab drinks and food! Prices were very reasonable as well. We must have lucked out because when we left there was a huge line of people waiting to be seated. Definitely check this place out!",
-        "star_rating": "4 star rating",
-        "location": "Tampa, FL",
-        "place_name": "Swingin' Door Exchange",
-        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/r4c0Nbo13JNyn5eWOyLsWQ/60s.jpg",
-        "joy_likelihood": [
-            {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
-            },
-            {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
-            },
-            {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
-            },
-            {
-                "Joy": "VERY_UNLIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_LIKELY"
-            }
-        ]
+        "likelihood": []
     },
     {
         "name": "Ellie E.",
@@ -355,43 +373,15 @@
         "location": "Milwaukee, WI",
         "place_name": "Swingin' Door Exchange",
         "image_url": "https://s3-media0.fl.yelpcdn.com/photo/jj1vEqphp6s_YIeI91QeAg/60s.jpg",
-        "joy_likelihood": [
+        "likelihood": [
             {
-                "Joy": "VERY_LIKELY",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "VERY_UNLIKELY"
-            }
-        ]
-    },
-    {
-        "name": "Jeff N.",
-        "review_content": "Everything the 800 other reviewers say is true.Good food in a cozy atmosphere.Friendly service.I had the pork chop sandwich. It was moist and delicious. The grilled beets were my favorite side.My wife had a patty melt which was anything but ordinary. She absolutely loved the Brussels sprouts. Good selection of beers.",
-        "star_rating": "5 star rating",
-        "location": "Naperville, IL",
-        "place_name": "Swingin' Door Exchange",
-        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/P8CzlxygQBNPM8EbPQ47bQ/60s.jpg",
-        "joy_likelihood": []
-    },
-    {
-        "name": "Lico J.",
-        "review_content": "This is a hidden gem (not really many people have been here for many times lol) and one of the few restaurants that I can comfortably say \"great\" in downtown. My boyfriend and I went at 5:30 on a Friday night and found the restaurant was already pretty busy! Nice casual relaxing vibe and cool warm-tone interior design.We started with the Brussels Sprouts w Candied pecans and sriracha aioli. The brussels sprouts were deep fried to be super crispy (in case you think they are grilled) and went so well with the creamy and slightly spicy sriracha aioli. Yum! We two finished the whole plate in like 5 mins.My veggie melt contained generous portion of vegetables. The grilled cheese, mushroom and onions and avocado in between two slices of perfectly toasted and buttered bread were delicious! The only thing I didn't like about the sandwich was the raw cucumber inside - they were not refreshing and cold any more because everything else in the sandwich were cooked. So they were kind of watery and tasteless and added a weird texture. Personally I think they should use grilled zucchini instead.My boyfriend enjoyed his sriracha chicken sandwich a lot! I took a bite of it and could not agree more! Nicely seasoned! The bread was, again, so perfectly grilled with butter and had a crispy texture! The chicken was yummy - moist inside and crispy outside.Sides: my grilled beets were good. Given I am not a beet fan, I think I still enjoyed them. My boyfriend's onion rings were nothing really special, but did come in a generous portion.Bonus: I came here like a year before and got their chicken avocado bacon sandwich at that time. I could not remember the details but recalled I felt really good about it. That is why I wanted to come back and also showed the restaurant to my boyfriend.",
-        "star_rating": "5 star rating",
-        "location": "Milwaukee, WI",
-        "place_name": "Swingin' Door Exchange",
-        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/e6ql691mh8-Boucm_o72Ow/60s.jpg",
-        "joy_likelihood": [
-            {
-                "Joy": "POSSIBLE",
-                "Sorrow": "VERY_UNLIKELY",
-                "Anger": "VERY_UNLIKELY",
-                "Surprise": "VERY_UNLIKELY",
-                "Under Exposed": "VERY_UNLIKELY",
-                "Headwear": "VERY_UNLIKELY",
-                "Blurred": "LIKELY"
+                "Joy": "4",
+                "Sorrow": "0",
+                "Anger": "0",
+                "Surprise": "0",
+                "Under Exposed": "0",
+                "Headwear": "0",
+                "Blurred": "0"
             }
         ]
     }

@@ -10,24 +10,24 @@
             "profile_url": "https://www.yelp.com/user_details?userid=5CtliKo9bMjAdoBP13t-yA",
             "image_url": "https://s3-media2.fl.yelpcdn.com/photo/StDl8FyeoTCXFeoEjuHY_Q/o.jpg",
             "name": "Warren D.",
-            "joy_likelihood": [
+            "likelihood": [
                 {
-                    "Joy": "VERY_LIKELY",
-                    "Sorrow": "VERY_UNLIKELY",
-                    "Anger": "VERY_UNLIKELY",
-                    "Surprise": "VERY_UNLIKELY",
-                    "Under Exposed": "VERY_UNLIKELY",
-                    "Headwear": "VERY_UNLIKELY",
-                    "Blurred": "VERY_UNLIKELY"
+                    "Joy": "4",
+                    "Sorrow": "0",
+                    "Anger": "0",
+                    "Surprise": "0",
+                    "Under Exposed": "0",
+                    "Headwear": "0",
+                    "Blurred": "0"
                 },
                 {
-                    "Joy": "VERY_LIKELY",
-                    "Sorrow": "VERY_UNLIKELY",
-                    "Anger": "VERY_UNLIKELY",
-                    "Surprise": "VERY_UNLIKELY",
-                    "Under Exposed": "VERY_UNLIKELY",
-                    "Headwear": "VERY_UNLIKELY",
-                    "Blurred": "VERY_UNLIKELY"
+                    "Joy": "4",
+                    "Sorrow": "0",
+                    "Anger": "0",
+                    "Surprise": "0",
+                    "Under Exposed": "0",
+                    "Headwear": "0",
+                    "Blurred": "0"
                 }
             ]
         }
@@ -43,15 +43,15 @@
             "profile_url": "https://www.yelp.com/user_details?userid=MbCQK6P4IYHpfjksqzTozw",
             "image_url": "https://s3-media1.fl.yelpcdn.com/photo/Ha03pDWDuJQKqc5RXlMelA/o.jpg",
             "name": "Brie G.",
-            "joy_likelihood": [
+            "likelihood": [
                 {
-                    "Joy": "VERY_LIKELY",
-                    "Sorrow": "VERY_UNLIKELY",
-                    "Anger": "VERY_UNLIKELY",
-                    "Surprise": "VERY_UNLIKELY",
-                    "Under Exposed": "VERY_UNLIKELY",
-                    "Headwear": "VERY_UNLIKELY",
-                    "Blurred": "VERY_UNLIKELY"
+                    "Joy": "4",
+                    "Sorrow": "0",
+                    "Anger": "0",
+                    "Surprise": "0",
+                    "Under Exposed": "0",
+                    "Headwear": "0",
+                    "Blurred": "0"
                 }
             ]
         }
@@ -67,15 +67,15 @@
             "profile_url": "https://www.yelp.com/user_details?userid=Wvh_YcUeCGVXSq9sXlhU_g",
             "image_url": "https://s3-media2.fl.yelpcdn.com/photo/qLDJgKfDrF5jLQ9aKkSmPA/o.jpg",
             "name": "Alison P.",
-            "joy_likelihood": [
+            "likelihood": [
                 {
-                    "Joy": "VERY_LIKELY",
-                    "Sorrow": "VERY_UNLIKELY",
-                    "Anger": "VERY_UNLIKELY",
-                    "Surprise": "VERY_UNLIKELY",
-                    "Under Exposed": "VERY_UNLIKELY",
-                    "Headwear": "VERY_UNLIKELY",
-                    "Blurred": "VERY_UNLIKELY"
+                    "Joy": "4",
+                    "Sorrow": "0",
+                    "Anger": "0",
+                    "Surprise": "0",
+                    "Under Exposed": "0",
+                    "Headwear": "0",
+                    "Blurred": "0"
                 }
             ]
         }
