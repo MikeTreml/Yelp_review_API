@@ -12,7 +12,7 @@ def json_file_create(data, file_name):
 
 def yelp_api_run(yelp_id_search):
     list_reiews = yelp_review_api.get_business_reviews(yelp_id_search)
-    list_reiews_joy = google_vision.add_joy_likelihood(list_reiews)
+    list_reiews_joy = yelp_review_api.add_joy_likelihood(list_reiews)
     final_json = json.dumps(list_reiews_joy, indent=4)
     print(final_json)
     json_file_create(final_json, "json/API_json.json")
